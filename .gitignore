@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+# Virtual environments
+.venv/
+venv/
+env/
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+# MLflow
+mlruns/
+mlartifacts/
+# Model artifacts
+*.pkl
+*.pickle
+*.joblib
+# Temporary files
+*.tmp
+*.temp
+*.log
+# Jupyter
+.ipynb_checkpoints/
+# IDE
+.vscode/
+.idea/
+# OS
+.DS_Store
+Thumbs.db
