@@ -1,7 +1,7 @@
 # Wine MLOps Pipeline
 
 A reproducible MLOps pipeline for multi-class wine cultivar classification
-using scikit-learn and MLflow.
+using scikit-learn and MLflow. This project is assignment of Fast Nuces .
 
 ## Dataset
 
@@ -20,6 +20,10 @@ The project uses the sklearn Wine dataset:
 - Automated testing
 - GitHub Actions CI
 - Model quality gates
+## Results
+- The result is showing accuracy is 100 because dataset is too small covering only 13 features
+## Development
+This project uses Git branches for feature development and collaboration.
 
 ## Installation
 
