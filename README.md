@@ -1,7 +1,7 @@
 # Wine MLOps Pipeline
 
-A reproducible MLOps pipeline for multi-class wine cultivar classification
-using scikit-learn and MLflow. This project is assignment of Fast Nuces .
+A reproducible MLOps pipeline for multi-class wine cultivar classification using scikit-learn and MLflow. This project is the FAST-NUCES MLOps assignment.
+
 
 ## Dataset
 
